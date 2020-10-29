@@ -73,43 +73,29 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Machine Learning Intern
+      time: Jun 2019 - Aug 2019
+      company: Red Hat, Boston
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Worked as part of Thoth team in the AI Center of Excellence (https://thoth-station.ninja) 
+        Created a Python-based CLI tool for generating smart release logs using Machine Learning and Natural Language Processing. 
+        The tool works by classifying Pull request titles and commit messages using Deep Neural Networks: https://pypi.org/project/thoth-glyph/
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Machine Learning Engineer
+      time: Sep 2018 - Jul 2019
+      company: Product Labs IIIT-H, Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Developed prototype of the paper “Towards Structured Analysis Of Broadcast Badminton Videos” for segmentation of game rallies, shot identification and player tracking using Faster R-CNN. The prototype evolved into a pilot project for Star India Pvt Ltd for analyzing Premier Badminton League matches in real-time. Coverage in IIIT's blog : http://blogs.iiit.ac.in/pbl/
+- Developed an Optical Character Recognition system for digitizing hand-filled forms using Convolutional Neural Network based classifier trained on EMNIST dataset.
+
+    - role: Software Engineer
+      time: Jun 2016 - Sep 2018
+      company: Paytm, Noida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked on reducing the cold launch time and memory footprint of Paytm's android application.
+- Developed chat interface for interaction between users and customer support teams.
+- Was involved with the development of Paytm Mall's android application from scratch.
 projects:
     title: Projects
     intro: >
@@ -137,27 +123,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
